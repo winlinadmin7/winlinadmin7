@@ -2,13 +2,15 @@
 
 IT Support | Systems Administration | Infrastructure
 
-I am an IT support professional with structured technical training modeled after core computer science and IT infrastructure curricula.
-I have experience supporting Windows users, applications, networking environments, and operating systems in both professional and lab settings.
+I am an IT support professional with a background in technical SEO and web infrastructure.
+I intentionally structured my technical education around post-secondary studies in computer science and IT infrastructure, with a focus on applied systems knowledge and project-based learning.
 
-My focus is on systems reliability, identity and access fundamentals, networking principles, and security-informed operational practices.
-I approach technical work with a structured, systems-minded perspective and an emphasis on stability and clear documentation.
+I have experience supporting Windows 10 and Windows 11 users, troubleshooting Microsoft applications, working with operating systems, and applying core networking principles in practical environments.
 
-This profile documents my structured learning, ongoing lab work, and applied technical projects in Windows, Linux, networking, and cybersecurity foundations.
+My work centers on systems reliability, uptime, identity and access management, and secure networking practices.
+I operate with a structured, systems-minded approach and prioritize business stability, clear documentation, and scope-informed troubleshooting.
+
+This profile documents my applied lab work, ongoing technical discipline, and hands-on projects in Windows, Linux, networking, and cybersecurity.
 
 Core Repositories
 
