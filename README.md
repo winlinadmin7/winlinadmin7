@@ -20,7 +20,7 @@ Core Repositories
 
 [`splunk-labs`](https://github.com/winlinadmin7/splunk-labs): Security event detection in Windows environments.
 
-[efi-firmware-recovery](https://github.com/winlinadmin7/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
+[`efi-firmware-recovery`](https://github.com/winlinadmin7/efi-firmware-recovery) – EFI firmware recovery and boot troubleshooting on Ubuntu - Dell Latitude 7330.
 
 [`ubuntu-suspend-debugging`](https://github.com/winlinadmin7/ubuntu-suspend-debugging): A documented troubleshooting case study involving suspend/resume state corruption on Ubuntu 22.04.  
 
