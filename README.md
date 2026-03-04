@@ -14,6 +14,8 @@ This profile documents my applied lab work, ongoing technical discipline, and ha
 
 Core Repositories
 
+[`it-infrastructure-fundamentals`](https://github.com/winlinadmin7/it-infrastructure-fundamentals): Foundations for IT support and systems administration.
+
 [`windows-helpdesk-frameworks`](https://github.com/winlinadmin7/windows-helpdesk-frameworks): Structured troubleshooting and security frameworks for Tier 1 Help Desk roles. 
 
 [`powershell-labs`](https://github.com/winlinadmin7/powershell-labs): Administrative automation and visibility scripts.
