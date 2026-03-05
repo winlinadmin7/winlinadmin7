@@ -3,7 +3,7 @@
 IT Support | Systems Administration | Infrastructure
 
 I am an IT support professional with a background in technical SEO and web infrastructure.
-I intentionally structured my technical education around post-secondary studies in computer science and IT infrastructure, with a focus on applied systems knowledge and project-based learning.
+I intentionally structured my technical education and training in computer science and IT infrastructure after equivalent post-secondary education, with a focus on applied systems knowledge and project-based learning.
 
 I have experience supporting Windows 10 and Windows 11 users, troubleshooting Microsoft applications, working with operating systems, and applying core networking principles.
 
